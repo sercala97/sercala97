@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## **Most lsnguage used**
+## **Most languages used**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sercala97&layout=compact)](https://github.com/sercala97/github-readme-stats)
 
 
