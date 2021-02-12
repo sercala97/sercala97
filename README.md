@@ -3,6 +3,7 @@
 - # **Python:**
 
 - # **R:**
+  - [LINEAR-REGRESSION_nba_salaries:](https://github.com/sercala97/Linear-Regression)
 
 
 
