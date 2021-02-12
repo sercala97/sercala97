@@ -17,6 +17,11 @@
 
 
 ## **Most languages used**
+
+<a href="https://github.com/sercala97/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sercala97&layout=compact&show_icons=true&theme=vision-friendly-dark&hide=HTML" />
+</a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sercala97&layout=compact&show_icons=true&theme=vision-friendly-dark&hide=HTML)](https://github.com/sercala97/github-readme-stats)
 
 
