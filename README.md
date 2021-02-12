@@ -4,6 +4,10 @@
 
 - # **R:**
   - [LINEAR-REGRESSION_nba_salaries:](https://github.com/sercala97/Linear-Regression)
+  - [Regularization-Model_nab_salaries:](https://github.com/sercala97/Regularization-Model)
+  - [ARIMA-ETS_apple_sales:](https://github.com/sercala97/ARIMA-ETS_apple_sales)
+  - [GAM-model-PISA:](https://github.com/sercala97/GAM-model-PISA)
+  
 
 
 
