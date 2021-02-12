@@ -2,7 +2,7 @@
 
 - # **Python:**
   -**MACHINE LEARNING**
-    -[Lending_club:](https://github.com/sercala97/MACHINE-LEARNING_lending_club)
+    - [Lending_club:](https://github.com/sercala97/MACHINE-LEARNING_lending_club)
     
   -**NEURAL NETWORKS**
     - [CNN_face_classification:](https://github.com/sercala97/Face_classification_CNN)
