@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 - # **Python:**
+  -**NEURAL NETWORKS**
+    - [CNN_face_classification:](https://github.com/sercala97/Face_classification_CNN)
 
 - # **R:**
   - [LINEAR-REGRESSION_nba_salaries:](https://github.com/sercala97/Linear-Regression)
