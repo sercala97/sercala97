@@ -17,7 +17,7 @@
 
 
 ## **Most languages used**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sercala97&layout=compact&show_icons=true&theme=vision-friendly-dark)](https://github.com/sercala97/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sercala97&layout=compact&show_icons=true&theme=vision-friendly-dark&hide=HTML)](https://github.com/sercala97/github-readme-stats)
 
 
 ## **My Github statistics:**
