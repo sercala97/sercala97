@@ -11,6 +11,7 @@
   -**SHINY**
     - [APP_1](https://github.com/sercala97/APP_practica_1)
     - [APP_2](https://github.com/sercala97/APP_practica_2)
+    - [APP_nutrition_calculator](https://github.com/sercala97/APP_nutrition_calculator)
     
   -**PREDICTION**
     - [LINEAR-REGRESSION_nba_salaries](https://github.com/sercala97/Linear-Regression)
@@ -18,7 +19,7 @@
     - [ARIMA-ETS_apple_sales](https://github.com/sercala97/ARIMA-ETS_apple_sales)
     - [GAM-model-PISA](https://github.com/sercala97/GAM-model-PISA)
   - **Tidytuesday**:
-    - [09-02-21_TidyTuesday:](https://github.com/sercala97/09-02-21_TidyTuesday)
+    - [09-02-21_Tidytuesday](https://github.com/sercala97/09-02-21_TidyTuesday)
   
 
 
