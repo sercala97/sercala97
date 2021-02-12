@@ -17,11 +17,11 @@
 
 
 ## **Most languages used**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sercala97&layout=compact&show_icons=true&theme=gradient)](https://github.com/sercala97/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sercala97&layout=compact&show_icons=true&theme=vision-friendly-dark)](https://github.com/sercala97/github-readme-stats)
 
 
 ## **My Github statistics:**
-![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sercala97&count_private=true&show_icons=true&theme=gradient)
+![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sercala97&count_private=true&show_icons=true&theme=vision-friendly-dark-friendly-darkent)
 
 <!--
 **sercala97/sercala97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
