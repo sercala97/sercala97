@@ -21,7 +21,7 @@
 
 
 ## **My Github statistics:**
-![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sercala97&count_private=true&show_icons=true&theme=vision-friendly-dark-friendly-darkent)
+![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sercala97&count_private=true&show_icons=true&theme=vision-friendly-dark)
 
 <!--
 **sercala97/sercala97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
