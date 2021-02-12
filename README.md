@@ -8,7 +8,7 @@
   - [ARIMA-ETS_apple_sales:](https://github.com/sercala97/ARIMA-ETS_apple_sales)
   - [GAM-model-PISA:](https://github.com/sercala97/GAM-model-PISA)
   - **Tidytuesday**:
-   - [09-02-21_TidyTuesday:](https://github.com/sercala97/09-02-21_TidyTuesday)
+    - [09-02-21_TidyTuesday:](https://github.com/sercala97/09-02-21_TidyTuesday)
   
 
 
