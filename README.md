@@ -7,7 +7,9 @@
   - [Regularization-Model_nab_salaries:](https://github.com/sercala97/Regularization-Model)
   - [ARIMA-ETS_apple_sales:](https://github.com/sercala97/ARIMA-ETS_apple_sales)
   - [GAM-model-PISA:](https://github.com/sercala97/GAM-model-PISA)
-    - [TIDYTUESDAY]
+  
+    - TIDYTUESDAY:
+      - [09-02-21_TidyTuesday:](https://github.com/sercala97/09-02-21_TidyTuesday)
   
 
 
