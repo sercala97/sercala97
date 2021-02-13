@@ -26,16 +26,8 @@
 
 
 
-## **Most languages used**
 
-<a href="https://github.com/sercala97/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sercala97&layout=compact&show_icons=true&theme=vision-friendly-dark&hide=HTML" />
-</a>
-
-
-
-
-## **My Github statistics:**
+# **My Github statistics**
 ![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sercala97&count_private=true&show_icons=true&theme=vision-friendly-dark)
 
 <!--
