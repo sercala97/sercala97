@@ -2,7 +2,8 @@
 
 - # **Python:**
   -**PYSPARK**
-    - [World_Bank_international_debt](https://github.com/sercala97/PySpark_World_Bank_international_debt-data)
+    - [World_Bank_international_debt :](https://github.com/sercala97/PySpark_World_Bank_international_debt-data) Using pyspark RDDs' to answer questions about countries debt
+
     
   -**MACHINE LEARNING**
     - [Lending_club](https://github.com/sercala97/MACHINE-LEARNING_lending_club)
